@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Final Year CSE Student<br>💻 Learning Python, AI/ML, SQL & Power BI
-<br>📊 Interested in Data Analytics and Technology<br>🚀 Building skills, projects, and growing every day<br>💬 Ask me about<br>⚡ Fun fact
+<br>📊 Interested in Data Analytics and Technology<br>🚀 Building skills, projects, and growing every day<br>
 
 
 ## 🌐 Socials:
