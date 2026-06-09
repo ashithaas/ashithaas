@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently a Final Year CSE Student<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓 Final Year CSE Student<br>💻 Learning Python, AI/ML, SQL & Power BI
+<br>📊 Interested in Data Analytics and Technology<br>🚀 Building skills, projects, and growing every day<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
